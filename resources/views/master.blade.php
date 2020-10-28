@@ -44,6 +44,7 @@
     display: flex;
     flex-direction: row;
     justify-content:center;
+
 }
 .productSpaces .tranding-items
 {
@@ -71,6 +72,11 @@
 
 }
 
+/* cartlist css */
+.cartlist-items
+{
+    widh:100% !important;
+}
 </style>
 </head>
 <body>
